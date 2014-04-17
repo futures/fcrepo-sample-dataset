@@ -29,9 +29,9 @@ import static org.slf4j.LoggerFactory.getLogger;
 import static javax.ws.rs.core.Response.Status.CREATED;
 
 /**
- * Tool to load the sample dataset into the Fadora repository
+ * Tool to load the sample dataset into the Fedora repository
  * 
- * Arguments: args[0]: Fadora repostory, default http://localhost:8080 args[1]:
+ * Arguments: args[0]: Fedora repository, default http://localhost:8080 args[1]:
  * resource dataset, default resources/data
  * 
  * @author lsitu
